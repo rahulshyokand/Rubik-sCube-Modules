@@ -1,4 +1,5 @@
 # Rubik-sCube-Modules
 
-Here is how GUI looks
-![](images/ExeGUI.png)
+ *********Use Python 3 or above version******** 
+        Here is how GUI looks
+        ![](images/ExeGUI.png)
